@@ -1,0 +1,4 @@
+pause 1
+send "T"
+pause 3
+closett
